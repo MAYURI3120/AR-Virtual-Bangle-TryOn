@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/BangleAR.iml" filepath="$PROJECT_DIR$/.idea/BangleAR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/banglear.iml" filepath="$PROJECT_DIR$/.idea/banglear.iml" />
     </modules>
   </component>
 </project>
